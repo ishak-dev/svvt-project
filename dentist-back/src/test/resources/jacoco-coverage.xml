@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.0" branch-rate="0.0" version="1.0" timestamp="0">
+    <sources>
+        <source>src/main/java</source>
+    </sources>
+    <packages>
+        <package name="com.dentist.dentist.core" line-rate="0.0" branch-rate="0.0" complexity="0.0">
+            <classes>
+                <class name="com.dentist.dentist.core.models.Appointment" filename="com/dentist/dentist/core/models/Appointment.java" line-rate="0.0" branch-rate="0.0" complexity="0.0"/>
+                <class name="com.dentist.dentist.core.models.AppointmentAvailability" filename="com/dentist/dentist/core/models/AppointmentAvailability.java" line-rate="0.0" branch-rate="0.0" complexity="0.0"/>
+                <class name="com.dentist.dentist.core.services.AppointmentServiceImpl" filename="com/dentist/dentist/core/services/AppointmentServiceImpl.java" line-rate="0.0" branch-rate="0.0" complexity="0.0"/>
+                <class name="com.dentist.dentist.core.services.AppointmentAvailabilityServiceImpl" filename="com/dentist/dentist/core/services/AppointmentAvailabilityServiceImpl.java" line-rate="0.0" branch-rate="0.0" complexity="0.0"/>
+            </classes>
+        </package>
+    </packages>
+</coverage> 

@@ -1,0 +1,4 @@
+com/dentist/dentist/core/services/AppointmentServiceImplTest.class
+com/dentist/dentist/core/services/AppointmentAvailabilityServiceImplTest.class
+com/dentist/dentist/DentistApplicationTests.class
+com/dentist/dentist/integration/AppointmentIntegrationTest.class
